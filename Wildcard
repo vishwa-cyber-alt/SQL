@@ -1,0 +1,3 @@
+Select * from Customers
+Where City LIKE'a%';
+it will return first letter as a 
